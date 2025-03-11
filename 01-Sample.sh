@@ -1,5 +1,5 @@
 ls
 ls -lrt
-uname -a
+uname
 
 
