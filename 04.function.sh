@@ -4,4 +4,3 @@ greeting () {
     echo Good to have you hear.
 }
 
-greeting
