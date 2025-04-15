@@ -1,3 +1,3 @@
 a=10
 
-echo a is $
+echo a is $a
